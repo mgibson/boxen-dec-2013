@@ -34,6 +34,9 @@ github "boxen", "3.3.4"
 # Core modules for a basic development environment. You can replace
 # some/most of these if you want, but it's not recommended.
 
+# added
+github "sysctl",         "1.0.0"
+
 github "dnsmasq",    "1.0.0"
 github "foreman",    "1.0.0"
 github "gcc",        "2.0.1"
@@ -48,6 +51,7 @@ github "openssl",    "1.0.0"
 github "phantomjs",  "2.0.2"
 github "pkgconfig",  "1.0.0"
 github "repository", "2.2.0"
+#github "nvm",      "1.0.0"
 github "ruby",       "6.7.2"
 github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
@@ -55,3 +59,30 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+# from stephen
+
+github "vlc",        "1.0.0"
+github "icu4c",      "1.0.0"
+github "redis",      "1.0.0"
+github "heroku",     "1.0.0"
+github "emacs",      "1.0.0"
+github "sparrow",    "1.0.0"
+github "propane",    "1.0.0"
+github "postgresql", "2.2.2"
+github "elasticsearch", "1.0.1"
+github "macvim",     "1.0.0"
+github "handbrake",  "1.0.0"
+github "java",       "1.0.5"
+github "python",     "1.0.1"
+github "chrome",     "1.0.0"
+github "virtualbox", "1.0.1"
+github "caffeine",         "1.0.0"
+github "things",         "1.0.0"
+github "sublime_text_2", "1.0.0"
+#github "phantomjs",      "1.9.0"
+github "imagemagick",    "1.2.1"
+github "autojump",   "1.0.0"
+github "iterm2",     "1.0.1"
+github "notational_velocity", "1.1.0"
+github "wget",       "1.0.0"
+
