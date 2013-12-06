@@ -13,6 +13,7 @@ class people::mgibson {
   include notational_velocity::nvalt
   include wget
   include postgresql
+  include redis
 
 
   # SpeakEZ Projects
