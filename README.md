@@ -1,3 +1,5 @@
+Boxen round 2. Auto-configure your OSX dev environment. Re-doing Boxen since it broke with OSX Mavericks.
+
 # Our Boxen
 
 This is a template Boxen project designed for your organization to fork and
