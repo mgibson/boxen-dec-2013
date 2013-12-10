@@ -14,7 +14,9 @@ class people::mgibson {
   include wget
   include postgresql
   include redis
-
+  include mysql
+  include foreman
+  include nodejs
 
   # SpeakEZ Projects
   include projects::all

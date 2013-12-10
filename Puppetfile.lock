@@ -99,6 +99,11 @@ GITHUBTARBALL
     macvim (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-mysql
+  specs:
+    mysql (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-nginx
   specs:
     nginx (1.4.2)
@@ -222,6 +227,7 @@ DEPENDENCIES
   elasticsearch (= 1.0.1)
   emacs (= 1.0.0)
   foreman (= 1.0.0)
+  foreman (= 1.0.0)
   gcc (= 2.0.1)
   git (= 1.2.5)
   go (= 1.0.0)
@@ -235,6 +241,7 @@ DEPENDENCIES
   iterm2 (= 1.0.1)
   java (= 1.0.5)
   macvim (= 1.0.0)
+  mysql (= 1.0.0)
   nginx (= 1.4.2)
   nodejs (= 3.3.0)
   notational_velocity (= 1.1.0)

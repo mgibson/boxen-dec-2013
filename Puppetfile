@@ -86,3 +86,7 @@ github "iterm2",     "1.0.1"
 github "notational_velocity", "1.1.0"
 github "wget",       "1.0.0"
 
+# it does seem we need this to import data from zeus on db create
+github "mysql",      "1.0.0"
+github "foreman", "1.0.0"
+
