@@ -17,6 +17,7 @@ class people::mgibson {
   include mysql
   include foreman
   include nodejs
+  include heroku
 
   # SpeakEZ Projects
   include projects::all
